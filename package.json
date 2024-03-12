@@ -1,0 +1,8 @@
+{
+  "name": "omenagement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Benoit-Boulanger/OmenagementFront.git",
+  "author": "Benoit-Boulanger <benoit.boulanger.oclock@gmail.com>",
+  "license": "MIT"
+}
